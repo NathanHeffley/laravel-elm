@@ -1135,7 +1135,7 @@ charenc@~0.0.1:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/charenc/-/charenc-0.0.2.tgz#c0a1d2f3a7092e03774bfa83f14c0fc5790a8667"
 
-chokidar@^1.6.0, chokidar@^1.7.0:
+chokidar@^1.6.0, chokidar@^1.6.1, chokidar@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-1.7.0.tgz#798e689778151c8076b4b360e5edd28cda2bb468"
   dependencies:
@@ -3407,6 +3407,12 @@ kind-of@^4.0.0:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-4.0.0.tgz#20813df3d712928b207378691a45066fae72dd57"
   dependencies:
     is-buffer "^1.1.5"
+
+laravel-elm@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/laravel-elm/-/laravel-elm-1.1.1.tgz#48cd5ae599f80777541763b78ddb0ed315593656"
+  dependencies:
+    chokidar "^1.6.1"
 
 laravel-mix@^1.0:
   version "1.6.1"
